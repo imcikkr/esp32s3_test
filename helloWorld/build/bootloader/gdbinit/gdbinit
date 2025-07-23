@@ -1,0 +1,2 @@
+source D:/esp32s3_test/helloWorld/build/bootloader/gdbinit/symbols
+source D:/esp32s3_test/helloWorld/build/bootloader/gdbinit/connect
